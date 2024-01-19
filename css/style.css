@@ -1,0 +1,184 @@
+/* header part start here */
+#header{
+    background-color: #F6F9F9;
+}
+/* header part start here */
+
+
+/* banner part start here */
+#banner{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#banner .banner-text{
+    text-align: center;
+    padding-top: 150px;
+    color: #fff;
+}
+.banner-text h1{
+    font-size: 70px;
+}
+.banner-text p{
+   font-size: 15px;
+   padding-bottom: 20px;
+}
+.banner-btn{
+    text-decoration: none;
+    border: 2px solid #2490D5;
+    padding: 10px 30px;
+    border-radius: 4px;
+    transition: .3s all linear;
+    font-weight: 400;
+    display: inline-block;
+    text-align: center;
+}
+.banner-btn:hover{
+    background-color: #2490D5;
+    border-color: #2490D5;
+    color: #fff;
+}
+.banner-btn-div{
+    padding-bottom: 250px;
+}
+.banner-text hr{
+    width: 380px;
+    color: #2490D5;
+
+}
+/* banner part end here */
+
+
+
+/* design part start here */
+#design{
+    background-color: #F6F9F9;
+}
+#design .design-text{
+    text-align: center;
+    padding: 50px 135px;
+}
+.design-text h2{
+    color: #303C52;
+    font-size: 25px;
+}
+.design-text p{
+    color: #B7B9B9;
+    font-size: 15px;
+}
+/* design part end here */
+
+
+
+/* feature part start here */
+#feature{
+    text-align: center;
+    padding: 50px 180px;
+}
+#feature .icon-style{
+    padding: 12px 17px;
+    background-color: #5FC3FF;
+    width: 60px;
+    height: 60px;
+}
+
+.heading-text{
+    color: #7D8591;
+}
+.p-text{
+    color: #CBCBCB;
+    font-size: 15px;
+}
+/* feature part end here */
+
+
+
+/* showcase part start here */
+#showcase{
+    background-color:  #F6F9F9;
+    padding: 70px 130px 70px 130px;
+    text-align: center;
+    margin-right: 30px;
+   
+}
+.show-text{
+    color: #303C52;
+}
+.show-para{
+    color: #B7B9B9;
+    font-size: 13px;
+    padding-bottom: 30px;
+}
+/* showcase part end here */
+
+
+
+/* contact part start here */
+#contact{
+    background-color: #2C374B;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.contact-text{
+    color: #fff;
+    font-weight: 400;
+}
+.contact-para{
+    color: #B7B9B9;
+    font-size: 11px;
+}
+.contact-name {
+    padding: 8px 200px 10px 7px;
+    background-color: #2C374B;
+    border: 1px solid #B7B9B9;
+    margin-bottom: 10px;
+}
+.contact-email{
+    padding: 8px 200px 10px 7px; 
+    background-color: #2C374B;
+    border: 1px solid #B7B9B9;
+    margin-bottom: 10px;
+}
+.contact-msg{
+    padding: 8px 200px 70px 7px;
+    background-color: #2C374B;
+    border: 1px solid #B7B9B9;
+    margin-bottom: 10px;
+}
+ .check-box{
+    padding-left: auto;
+}
+.check-box-text{
+    color: #fff;
+    font-size: 12px;
+}
+.send-btn{
+    background-color: #2C374B;
+    border: 1px solid #2490D5;
+    border-radius: 7%;
+    padding: 5px 25px 5px 25px;
+    color: #fff;
+    margin-left: 170px;
+}
+/* contact part end here */
+
+
+
+/* footer part start here */
+#footer{
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 150px;
+   background-color:  #F6F9F9;
+}
+.footer-text{
+    color: #B7B9B9;
+    font-size: 13px;
+}
+.footer-logo{
+    text-align: right;
+    padding-right: 100px;
+}
+/* footer part end here */
